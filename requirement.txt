@@ -1,0 +1,8 @@
+leaflet (package for R)
+sf
+shiny
+rgdal
+rsconnect
+dplyr or tidyverse
+shinydashboardPlus
+shinydashboard
