@@ -48,7 +48,7 @@ the Nazis. (You can [find it here](https://skiaxtro.shinyapps.io/map2)).
    make sure that you have published the last save of the **`.RData`** file.
 - Libraries must also be in your main file when you publish it for it to work.
 ## License
-My code is released under MIT License.
+My code is released under [MIT License](LICENSE).
 ## Author
 
 - [@Stylianos Eleftheriadis](https://www.linkedin.com/in/stylianos-eleftheriadisdis/)
