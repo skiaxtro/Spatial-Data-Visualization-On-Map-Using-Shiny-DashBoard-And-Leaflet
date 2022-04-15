@@ -23,7 +23,7 @@ the Nazis. (You can [find it here](https://skiaxtro.shinyapps.io/map2)).
 
 ##  Preparing Data 
 - You can use my dataset, but also you can create your own. If you have difficulty findingthe coordinates you can use the QGIS app and create a **shp** file. You can find thecoordinates and integrate them into your dataset as you wish, however if you encounterany problems with the coordinates, you can run the **`export_coordinates_from_shp.R`** fileand copy/insert them to your dataset.
-- Run the **`Libraries.R `** file
+- Run the [**`Libraries.R `**](Libraries.R) file
 - Run the **`DataPreprocessing.R`** file
 - In case you have created your own dataset, make the necessary changes and configure it as you wish.
 ## instructions
